@@ -23,4 +23,30 @@ h1{
     padding: 10px 30px;
     color: white;
     font-weight: 600;
+    border-radius: 5px;
+}
+.flexible-container{
+    text-align: center;
+}
+.my-mission{
+    display: flex;
+}
+.mission-box{
+    width: 25%;
+    margin-left: 7%;
+    margin-right: 7%;
+    padding: 10px;
+    border-radius: 5%;
+}
+#mission-one{
+    background-color: lightpink;
+}
+#mission-two{
+    background-color: lightblue;
+}
+#mission-three{
+    background-color: lightslategray;
+}
+.mission-box img{
+    width: 30%;
 }
