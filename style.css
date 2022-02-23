@@ -4,7 +4,7 @@ body{
 h1{
     font-size: 50px;
 }
-.stay-focus{
+.my-mission{
     display: flex;
 }
 .half-width{
@@ -30,6 +30,7 @@ h1{
 }
 .my-mission{
     display: flex;
+    margin-bottom: 100px;
 }
 .mission-box{
     width: 25%;
@@ -49,4 +50,17 @@ h1{
 }
 .mission-box img{
     width: 30%;
+}
+
+.footer{
+    display: block;
+    padding: 3px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.tomato-color{
+    color: tomato;
 }
