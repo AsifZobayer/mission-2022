@@ -4,6 +4,10 @@ body{
 h1{
     font-size: 50px;
 }
+#stay-focus{
+    border-left: 5px solid;
+    border-color: tomato;
+}
 .my-mission{
     display: flex;
 }
@@ -51,7 +55,9 @@ h1{
 .mission-box img{
     width: 30%;
 }
-
+ .flexible-container img{
+     width: 15%;
+ }
 .footer{
     display: block;
     padding: 3px;
